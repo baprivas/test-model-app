@@ -32,6 +32,7 @@
          disponibilizar la informacion para que pueda listarse.
          - El item de localStorage para el listado debe llamarse "users.list" 
          
+6. La prueba debe ser subida como un fork o repositorio personal en github.
 
 ## Evaluaciones
 1. No pueden existir dos paises iguales
